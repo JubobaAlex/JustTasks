@@ -19,3 +19,14 @@ header li{
     font-size: 30px;
 }
 
+.text-main {
+    display: flex;
+    justify-content: center;
+}
+
+.text-main img {
+    height: 50px;
+    width: 50px;
+    vertical-align: middle;
+}
+
