@@ -22,6 +22,8 @@ header li{
 .text-main {
     display: flex;
     justify-content: center;
+    animation-name: text-main;
+    animation-duration: 1s;
 }
 
 .text-main img {
