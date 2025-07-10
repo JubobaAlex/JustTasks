@@ -32,3 +32,11 @@ header li{
     vertical-align: middle;
 }
 
+.input-wrapper {
+    display: flex;
+    justify-content: center;
+}
+.input-wrapper input {
+    width: 99%;
+    height: 50px;
+}
