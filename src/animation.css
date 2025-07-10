@@ -6,3 +6,12 @@
         transform: translate(0px);
     }
 }
+
+@keyframes text-content-animation {
+    from {
+        transform: translateX(100px);
+    }
+    to {
+        transform: translateX(0px);
+    }
+}
